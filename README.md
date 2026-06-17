@@ -102,10 +102,9 @@ A data workflow utility designed to parse unstructured ASR text logs, calculate 
 
 ## 🔗 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/milena-cardoso-franca](https://linkedin.com/in/milena-cardoso-franca)
-- 📧 **Email:** [milecfranca@example.com](mailto:milecfranca@example.com)
-- 🌐 **Portfolio/Blog:** *(Add your website if available)*
-
+- 💼 **LinkedIn:** [linkedin.com/in/milena-cardoso-franca](www.linkedin.com/in/milena-cardoso-frança-922334371)
+- 📧 **Email:** [milecfranca@example.com](mailto:milecardfra@gmail.com)
+- 
 ---
 
 ## 🎯 Current Focus
