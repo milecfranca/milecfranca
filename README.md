@@ -35,6 +35,9 @@ Data-driven professional specializing in **Natural Language Processing (NLP)**, 
 **Linguistic Domains:**
 - 🇧🇷 Brazilian Portuguese (Native / Subject Matter Expert)
 - 🇺🇸 English (Fluent)
+- 🇪🇸 Spanish (Advanced)
+- 🇫🇷 French (Advanced)
+- 🇨🇳 Mandarim (Beginner)
 
 ---
 
